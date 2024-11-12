@@ -3,7 +3,7 @@
 git init
 ```
 
-## KOnfigurasyonlar ##
+## Konfigurasyonlar ##
 ```js
 git config --global --list
 ```
@@ -38,9 +38,14 @@ origin aliastır takma isimdir
 
 
 
-dosyayı github reposuna görneriyoruz
+dosyayı github reposuna gönderiyoruz
 ```js
+<<<<<<< HEAD
 git push -u origin main 
 ```
 
 sdasd
+=======
+git push -u origin main
+```
+>>>>>>> 3d7edd4a9b13974da0372a997db728784ed6b7a8
