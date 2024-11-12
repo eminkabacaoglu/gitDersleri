@@ -40,5 +40,7 @@ origin aliastır takma isimdir
 
 dosyayı github reposuna görneriyoruz
 ```js
-git push -u origin main
+git push -u origin main 
 ```
+
+sdasd
